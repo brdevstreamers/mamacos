@@ -9,8 +9,9 @@ Pending
 [x] - euwilkk - fisico
 [x] - omarkdev - phpamaco
 [x] - LordQuaseH4CKER - jorginho o gangstar (corrente de ouro)
-[] - ParticleMarcos - naruto
+[x] - ParticleMarcos - naruto
 [] - Lamark - careca de sneaker
 [] - Em1dio - em1caco (barbudo, oculos camiseta branca)
 [] - xTecna - mamacacao 
 [] - PcBrSites - vuejs
+[] - mauriciofaustino - beavis big tasty palito
