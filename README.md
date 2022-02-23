@@ -15,3 +15,4 @@ Pending
 [] - xTecna - mamacacao 
 [] - PcBrSites - vuejs
 [] - mauriciofaustino - beavis big tasty palito
+[] - isaquebock - streamer
