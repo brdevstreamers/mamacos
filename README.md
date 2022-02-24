@@ -11,8 +11,20 @@ Pending
 [x] - LordQuaseH4CKER - jorginho o gangstar (corrente de ouro)
 [x] - ParticleMarcos - naruto
 [x] - Lamark - careca de sneaker
-[] - Em1dio - em1caco (barbudo, oculos camiseta branca)
-[] - xTecna - mamacacao 
+[x] - Em1dio - em1caco (barbudo, oculos camiseta branca)
+[x] - xTecna - mamacacao 
 [] - PcBrSites - vuejs
 [] - mauriciofaustino - beavis big tasty palito
 [] - isaquebock - streamer
+[] - NandoSangenetto - Snib - gato
+[] - SantiaelCodes - 
+[] - astyhell - 
+[] - levxyca - 
+[] - Alchemy_Flames - 
+[] - geisttttt - 
+[] - XBeowulf - 
+[] - brunobandev - Punk
+[] - omarkdev - 
+[] - hurtpr1de - 
+[] - AllePlets - 
+[] - nanohappy -  - rei espada duas desert eagle
