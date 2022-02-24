@@ -15,9 +15,9 @@ Pending
 [x] - xTecna - mamacacao 
 [x] - PcBrSites - vuejs
 [x] - mauriciofaustino - beavis big tasty palito
-[] - isaquebock - streamer
+[x] - isaquebock - streamer
 [] - NandoSangenetto - Snib - gato
-[] - SantiaelCodes - 
+[] - SantiaelCodes - sr 2 anos 
 [] - astyhell - 
 [] - levxyca - 
 [] - Alchemy_Flames - 
@@ -29,3 +29,16 @@ Pending
 [] - nanohappy -  - rei espada duas desert eagle
 [] - brdabrzise - one piece - zoro
 [] - alesuzukidev - Ale - nerd, japinha, ama gatos, meio gordinha
+[] - CodellabsTV - Junior
+
+
+CodelllabsTV gifted a Tier 1 Sub to lucaspulga1!
+CodelllabsTV gifted a Tier 1 Sub to edson_marc21!
+CodelllabsTV gifted a Tier 1 Sub to leovargasdev!
+CodelllabsTV gifted a Tier 1 Sub to HigorCirne!
+CodelllabsTV gifted a Tier 1 Sub to paulinoo_!
+CodelllabsTV gifted a Tier 1 Sub to alesuzukidev! They've gifted 6 Subs in the channel!
+
+
+v2:
+[] - SantiaelCodes - octomaco
