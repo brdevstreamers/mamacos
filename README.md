@@ -13,8 +13,8 @@ Pending
 [x] - Lamark - careca de sneaker
 [x] - Em1dio - em1caco (barbudo, oculos camiseta branca)
 [x] - xTecna - mamacacao 
-[] - PcBrSites - vuejs
-[] - mauriciofaustino - beavis big tasty palito
+[x] - PcBrSites - vuejs
+[x] - mauriciofaustino - beavis big tasty palito
 [] - isaquebock - streamer
 [] - NandoSangenetto - Snib - gato
 [] - SantiaelCodes - 
@@ -24,7 +24,8 @@ Pending
 [] - geisttttt - 
 [] - XBeowulf - 
 [] - brunobandev - Punk
-[] - omarkdev - 
 [] - hurtpr1de - 
 [] - AllePlets - 
 [] - nanohappy -  - rei espada duas desert eagle
+[] - brdabrzise - one piece - zoro
+[] - alesuzukidev - Ale - nerd, japinha, ama gatos, meio gordinha
