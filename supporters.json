@@ -2,7 +2,7 @@
     {
         "user_name": "thaisdiaas",
         "mamaco": "Baby Flavin",
-        "redeemed": false
+        "redeemed": true
     },
     {
         "user_name": "machiniiis",
@@ -78,5 +78,11 @@
         "user_name": "brdabrzise",
         "mamaco": "",
         "redeemed": true
+    },
+    {
+        "user_name": "mauriciofaustino",
+        "mamaco": "BigTasty",
+        "redeemed": true
     }
+
 ]

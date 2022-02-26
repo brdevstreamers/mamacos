@@ -26,11 +26,13 @@ Pending
 [x] - brunobandev - Punk
 [] - hurtpr1de - 
 [] - AllePlets - 
-[] - nanohappy -  - rei espada duas desert eagle
-[] - brdabrzise - one piece - zoro
+[x] - nanohappy -  - rei espada duas desert eagle
+[x] - brdabrzise - one piece - zoro
 [] - alesuzukidev - Ale - nerd, japinha, ama gatos, meio gordinha
 [] - CodellabsTV - Junior
 [] - machiniis - Dr Estranho
+[] - Sandgi_  - Mago do deserto
+[] - bleenk - mamaike wazowski
 
 CodelllabsTV gifted a Tier 1 Sub to lucaspulga1!
 CodelllabsTV gifted a Tier 1 Sub to edson_marc21!
@@ -43,3 +45,4 @@ CodelllabsTV gifted a Tier 1 Sub to alesuzukidev! They've gifted 6 Subs in the c
 v2:
 [] - SantiaelCodes - octomaco
 [] - alesuzukidev - mama peach - princesa peach
+[] - ParticleMarcos - mamarcos
